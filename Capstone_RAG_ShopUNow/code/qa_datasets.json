@@ -1,0 +1,374 @@
+{
+  "Customer Support": {
+    "description": "Handles external customer queries about orders, returns, refunds and general product inquiries",
+    "type": "external",
+    "qa_pairs": [
+      {
+        "question": "How can I track my order?",
+        "answer": "You can track your order by logging into your ShopUNow account and visiting the 'My Orders' section. Alternatively, you can use the tracking link provided in your order confirmation email."
+      },
+      {
+        "question": "What is your return policy?",
+        "answer": "Our return policy allows you to return items within 30 days of receipt for a full refund. Items must be unused and in their original packaging. Please visit our Returns page for more details."
+      },
+      {
+        "question": "How do I initiate a return?",
+        "answer": "To initiate a return, please go to the 'Returns' section on our website. You will need your order number and email address to start the process. Follow the on-screen instructions to print your return label."
+      },
+      {
+        "question": "When will I receive my refund?",
+        "answer": "Once we receive your returned item and it is inspected, your refund will be processed within 5-7 business days. The refund will be issued to the original payment method used for the purchase."
+      },
+      {
+        "question": "Can I change my order after placing it?",
+        "answer": "Unfortunately, once an order is placed, it cannot be modified. If you need to change your order, please contact our support team as soon as possible, and we will do our best to assist you."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept various payment methods, including credit/debit cards (Visa, MasterCard, American Express), PayPal, and Shop Pay. You can select your preferred method during checkout."
+      },
+      {
+        "question": "How can I contact customer support?",
+        "answer": "You can contact our customer support team via the 'Contact Us' page on our website, where you can find our email, phone number, and live chat options for immediate assistance."
+      },
+      {
+        "question": "Do you ship internationally?",
+        "answer": "Yes, we offer international shipping to select countries. Please check our Shipping Information page for details on shipping rates and estimated delivery times."
+      },
+      {
+        "question": "What should I do if I received a damaged item?",
+        "answer": "If you received a damaged item, please contact our customer support team within 48 hours of delivery. We may ask for photos of the damage to assist in processing your claim."
+      },
+      {
+        "question": "How can I update my shipping address?",
+        "answer": "To update your shipping address, log into your ShopUNow account and go to 'Account Settings.' You can update your address there. Please do this before your order ships."
+      },
+      {
+        "question": "Are there any current promotions or discounts?",
+        "answer": "Yes! We frequently run promotions and discounts. Please check our homepage or subscribe to our newsletter for the latest offers and exclusive deals."
+      },
+      {
+        "question": "Can I cancel my order?",
+        "answer": "You can cancel your order if it has not yet been processed. Please contact our customer support team immediately for assistance with your cancellation request."
+      },
+      {
+        "question": "How do I leave a review for a product?",
+        "answer": "To leave a review, navigate to the product page of the item you purchased. Scroll down to the review section, and you will see an option to submit your feedback."
+      },
+      {
+        "question": "What should I do if I forgot my password?",
+        "answer": "If you forgot your password, click on the 'Forgot Password?' link on the login page. You will receive an email with instructions to reset your password."
+      },
+      {
+        "question": "Can I place an order over the phone?",
+        "answer": "Yes, you can place an order over the phone by calling our customer support team. Please have your product details and payment information ready for a smooth process."
+      }
+    ]
+  },
+  "Product Information": {
+    "description": "Provides detailed information about products, specifications, availability and recommendations to external customers",
+    "type": "external",
+    "qa_pairs": [
+      {
+        "question": "What are the specifications of the Samsung Galaxy S21?",
+        "answer": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED 2X display, a triple camera setup (12 MP ultra-wide, 12 MP wide, and 64 MP telephoto), and is powered by the Exynos 2100 or Snapdragon 888 processor, depending on the region. It includes 8GB of RAM and options for 128GB or 256GB of internal storage."
+      },
+      {
+        "question": "How can I find out if a product is in stock?",
+        "answer": "You can check the availability of a product on its product page. If the item is in stock, it will display 'In Stock' along with the quantity available. If it\u2019s out of stock, you can sign up for restock notifications."
+      },
+      {
+        "question": "Do you offer product recommendations based on my preferences?",
+        "answer": "Yes, we offer personalized product recommendations based on your browsing history and previous purchases. You can also explore our curated collections and bestsellers for more options."
+      },
+      {
+        "question": "What is the warranty on electronics purchased from ShopUNow?",
+        "answer": "Electronics purchased from ShopUNow typically come with a manufacturer\u2019s warranty, which usually lasts for one year. Specific warranty details can be found on the product page or in the product manual."
+      },
+      {
+        "question": "Can I get a detailed description of the materials used in clothing products?",
+        "answer": "Absolutely! Each clothing product page includes a detailed description of the materials used, including fabric compositions, care instructions, and any special features."
+      },
+      {
+        "question": "How do I know the sizing for clothing items?",
+        "answer": "We provide a sizing chart on each clothing product page. You can compare your measurements with our chart to find the best fit. If you have specific sizing questions, our customer service team is also available to assist."
+      },
+      {
+        "question": "What should I do if I receive a damaged product?",
+        "answer": "If you receive a damaged product, please contact our customer service team within 48 hours of receipt. We will guide you through the return process and ensure you receive a replacement or refund."
+      },
+      {
+        "question": "Are the products sold on ShopUNow authentic?",
+        "answer": "Yes, all products sold on ShopUNow are 100% authentic and sourced directly from authorized suppliers and manufacturers. We guarantee the quality and authenticity of every item in our inventory."
+      },
+      {
+        "question": "Can I find user reviews for products on your website?",
+        "answer": "Yes, each product page includes customer reviews and ratings. You can read feedback from other customers to help you make informed purchasing decisions."
+      },
+      {
+        "question": "What do I do if I have questions about a product before purchasing?",
+        "answer": "If you have questions about a product, you can reach out to our customer service team via live chat, email, or phone. We\u2019re here to provide you with any information you need to make a purchase."
+      },
+      {
+        "question": "How often do you update your product inventory?",
+        "answer": "Our product inventory is updated in real-time. We continuously add new products and restock popular items, so be sure to check back frequently for the latest offerings."
+      },
+      {
+        "question": "Is there a way to compare different products?",
+        "answer": "Yes, you can use our comparison feature to select multiple products and view their specifications side by side. This will help you easily identify the differences and make a better choice."
+      },
+      {
+        "question": "Do you provide recommendations for similar products?",
+        "answer": "Yes, on each product page, you will find a section for 'Similar Products' or 'You May Also Like' that features items related to your current selection, helping you discover alternatives."
+      },
+      {
+        "question": "How can I find eco-friendly products on your site?",
+        "answer": "You can filter your search results by selecting the 'Eco-Friendly' option in our product categories. This will display products that are made from sustainable materials or have environmentally friendly certifications."
+      },
+      {
+        "question": "What is the return policy for products purchased from ShopUNow?",
+        "answer": "Our return policy allows you to return most items within 30 days of purchase for a full refund. Items must be in their original condition and packaging. Please refer to our return policy page for more details."
+      }
+    ]
+  },
+  "HR Department": {
+    "description": "Manages internal employee queries about benefits, leave policies, payroll and workplace policies",
+    "type": "internal",
+    "qa_pairs": [
+      {
+        "question": "What benefits are available to full-time employees at ShopUNow?",
+        "answer": "Full-time employees at ShopUNow are eligible for a variety of benefits including health insurance, dental and vision coverage, a retirement savings plan with company matching, paid time off, and employee discounts on purchases."
+      },
+      {
+        "question": "How do I apply for leave under the Family and Medical Leave Act (FMLA)?",
+        "answer": "To apply for leave under FMLA, please submit a leave request form to the HR department at least 30 days in advance if the leave is foreseeable. You'll also need to provide any necessary medical documentation to support your request."
+      },
+      {
+        "question": "When is payday, and how is my salary paid?",
+        "answer": "Payday at ShopUNow is bi-weekly, every other Friday. Salaries are deposited directly into your designated bank account."
+      },
+      {
+        "question": "Can I roll over unused vacation days to the next year?",
+        "answer": "Yes, at ShopUNow, you can roll over up to five unused vacation days to the next calendar year. However, any additional unused vacation days will be forfeited."
+      },
+      {
+        "question": "What is the process for reporting workplace harassment?",
+        "answer": "If you experience or witness workplace harassment, please report it immediately to your supervisor or the HR department. We take all claims seriously and will ensure a thorough investigation and appropriate action."
+      },
+      {
+        "question": "How do I update my personal information, such as my address or emergency contacts?",
+        "answer": "To update your personal information, please log into the employee portal and navigate to the 'Profile' section. You can update your address, phone number, and emergency contacts there."
+      },
+      {
+        "question": "What are the eligibility requirements for health insurance?",
+        "answer": "All full-time employees who work at least 30 hours per week are eligible for health insurance coverage. Coverage begins on the first day of the month following 30 days of employment."
+      },
+      {
+        "question": "Is there a maternity leave policy, and how long is it?",
+        "answer": "Yes, ShopUNow offers maternity leave for up to 12 weeks for eligible employees. This leave can be taken as paid or unpaid, depending on your accrued leave balance."
+      },
+      {
+        "question": "How can I access my pay stubs and tax forms?",
+        "answer": "You can access your pay stubs and tax forms through the employee portal under the 'Payroll' section. If you have trouble accessing them, please contact HR for assistance."
+      },
+      {
+        "question": "What should I do if I need to take a sudden leave of absence?",
+        "answer": "If you need to take an unexpected leave of absence, please notify your supervisor and HR as soon as possible. We will work with you to accommodate your needs and ensure your absence is recorded appropriately."
+      },
+      {
+        "question": "Are part-time employees eligible for benefits?",
+        "answer": "Part-time employees at ShopUNow are eligible for certain benefits, such as employee discounts and paid sick leave. However, they do not qualify for full health benefits or retirement plans."
+      },
+      {
+        "question": "How often can I change my benefits elections?",
+        "answer": "You can change your benefits elections during the annual open enrollment period or within 30 days of a qualifying life event, such as marriage, divorce, or the birth of a child."
+      },
+      {
+        "question": "What is the procedure for performance reviews?",
+        "answer": "Performance reviews at ShopUNow are conducted annually. Employees will receive a notification in advance and are encouraged to prepare by reflecting on their accomplishments and setting goals for the upcoming year."
+      },
+      {
+        "question": "Is there a policy for remote work, and how can I request it?",
+        "answer": "Yes, ShopUNow has a flexible remote work policy. Employees can request remote work arrangements by submitting a request form to their supervisor, who will evaluate it based on business needs and individual performance."
+      },
+      {
+        "question": "How can I get support for my mental health?",
+        "answer": "ShopUNow offers an Employee Assistance Program (EAP) that provides confidential counseling services for mental health support. You can contact HR for more information about accessing these resources."
+      }
+    ]
+  },
+  "IT Support": {
+    "description": "Assists internal employees with technical issues, software access, hardware problems and system troubleshooting",
+    "type": "internal",
+    "qa_pairs": [
+      {
+        "question": "How do I reset my company email password?",
+        "answer": "To reset your company email password, go to the login page and click on 'Forgot Password?'. Follow the prompts to receive a reset link via your registered phone number or alternate email."
+      },
+      {
+        "question": "What should I do if my computer is running slow?",
+        "answer": "If your computer is running slow, try restarting it first. If the issue persists, check for any software updates and ensure that there are no resource-intensive applications running in the background. If you need further assistance, please submit a ticket to IT Support."
+      },
+      {
+        "question": "How can I access the company VPN?",
+        "answer": "To access the company VPN, you need to download the VPN client from our internal resources page. Once installed, use your company credentials to log in. If you encounter issues, please contact IT Support."
+      },
+      {
+        "question": "What do I do if I can't connect to the Wi-Fi?",
+        "answer": "If you can't connect to Wi-Fi, first check if the Wi-Fi is enabled on your device. If it is, try disconnecting and reconnecting to the network. If the issue continues, restart your device or check with IT Support for further assistance."
+      },
+      {
+        "question": "How do I install software on my work computer?",
+        "answer": "To install software on your work computer, please submit a request to IT Support with the name of the software and the reason for installation. Our team will review and assist you with the installation process."
+      },
+      {
+        "question": "What should I do if I receive a phishing email?",
+        "answer": "If you receive a phishing email, do not click on any links or download attachments. Report the email to IT Support immediately so we can take appropriate action."
+      },
+      {
+        "question": "How can I get help with my printer?",
+        "answer": "If you are having issues with your printer, first check if it is properly connected to your computer and powered on. If the problem persists, please submit a ticket to IT Support with details about the issue."
+      },
+      {
+        "question": "What is the process for requesting new hardware?",
+        "answer": "To request new hardware, please fill out a hardware request form available on the IT Support portal. Include details such as the type of hardware needed and the purpose for the request."
+      },
+      {
+        "question": "How can I access my work files remotely?",
+        "answer": "You can access your work files remotely by using the company VPN and logging into your workstation remotely. Ensure you have the necessary permissions and software installed. If you need assistance, contact IT Support."
+      },
+      {
+        "question": "What should I do if my software is not updating?",
+        "answer": "If your software is not updating, check your internet connection and ensure that your device meets the software's system requirements. If the problem persists, please submit a ticket to IT Support for further assistance."
+      },
+      {
+        "question": "How do I report a technical issue?",
+        "answer": "To report a technical issue, please submit a support ticket through the IT Support portal. Provide as much detail as possible about the issue, including any error messages and steps taken."
+      },
+      {
+        "question": "Where can I find the IT Support portal?",
+        "answer": "You can find the IT Support portal on the company intranet homepage. Look for the 'IT Support' section in the main menu or use the search function."
+      },
+      {
+        "question": "How do I change my computer settings for accessibility?",
+        "answer": "To change your computer settings for accessibility, go to the 'Settings' menu and select 'Ease of Access'. Here, you can adjust settings for vision, hearing, and interaction to suit your needs."
+      },
+      {
+        "question": "What should I do if I accidentally deleted an important file?",
+        "answer": "If you accidentally deleted an important file, check the Recycle Bin first. If it's not there, you may need to contact IT Support for assistance with file recovery options."
+      },
+      {
+        "question": "How do I set up a conference call using our system?",
+        "answer": "To set up a conference call, use the conferencing software provided by the company. You can schedule a call through the app or web interface, and send invitations to participants. For detailed instructions, refer to the user guide available in the IT resources."
+      }
+    ]
+  },
+  "Shipping and Delivery": {
+    "description": "Handles external customer questions about shipping status, delivery times, tracking and shipping costs",
+    "type": "external",
+    "qa_pairs": [
+      {
+        "question": "How can I track my order?",
+        "answer": "You can track your order by logging into your ShopUNow account and navigating to the 'Orders' section. Click on the order you wish to track, and you will find the tracking number and a link to the carrier's website."
+      },
+      {
+        "question": "What are the estimated delivery times for my order?",
+        "answer": "Delivery times vary based on your location and the shipping method selected at checkout. Generally, standard shipping takes 5-7 business days, while expedited shipping can take 2-3 business days. You will receive a more accurate estimate during the checkout process."
+      },
+      {
+        "question": "How much does shipping cost?",
+        "answer": "Shipping costs depend on the weight of your order, the shipping method selected, and your delivery location. You can view the shipping costs during the checkout process before finalizing your order."
+      },
+      {
+        "question": "What should I do if my order hasn't arrived yet?",
+        "answer": "If your order hasn't arrived by the estimated delivery date, please check the tracking information provided. If there are no updates or if your package is significantly delayed, contact our customer service team for assistance."
+      },
+      {
+        "question": "Can I change my shipping address after placing an order?",
+        "answer": "If you need to change your shipping address, please contact our customer service team as soon as possible. We can only update the address if your order has not yet been processed for shipment."
+      },
+      {
+        "question": "Do you offer international shipping?",
+        "answer": "Yes, ShopUNow offers international shipping to select countries. During the checkout process, you can enter your address to see if we deliver to your location and view the associated shipping costs."
+      },
+      {
+        "question": "What should I do if my package is lost?",
+        "answer": "If you believe your package is lost, please contact our customer service team with your order number and tracking information. We will assist you in investigating the issue with the shipping carrier."
+      },
+      {
+        "question": "Are there any shipping restrictions on certain items?",
+        "answer": "Yes, some items may have shipping restrictions due to size, weight, or regulations. These restrictions will be indicated during the checkout process if applicable."
+      },
+      {
+        "question": "What is your return policy for shipped items?",
+        "answer": "Our return policy allows you to return any unopened and unused items within 30 days of delivery for a full refund. Please refer to our Returns page for more details on the process."
+      },
+      {
+        "question": "Can I pick up my order instead of having it shipped?",
+        "answer": "Currently, we do not offer in-store pickup options. All orders must be shipped to the specified address at checkout."
+      },
+      {
+        "question": "How do I report an issue with my delivery?",
+        "answer": "If you experience any issues with your delivery, such as a damaged package or incorrect items, please contact our customer service team immediately with your order details, and we will resolve the issue promptly."
+      },
+      {
+        "question": "Is there a way to expedite my shipping after placing an order?",
+        "answer": "Once an order is placed, we cannot change the shipping method. However, if you contact customer service shortly after placing your order, we may be able to assist in expediting your shipping, depending on the order's status."
+      }
+    ]
+  },
+  "Finance Department": {
+    "description": "Manages internal employee queries about expense reimbursements, budgets and financial procedures",
+    "type": "internal",
+    "qa_pairs": [
+      {
+        "question": "What is the process for submitting an expense reimbursement request?",
+        "answer": "To submit an expense reimbursement request, please complete the expense report form available on the intranet, attach all relevant receipts, and submit it to your department manager for approval. Once approved, it will be forwarded to the Finance Department for processing."
+      },
+      {
+        "question": "How long does it typically take to process expense reimbursements?",
+        "answer": "Expense reimbursements are generally processed within 5 to 7 business days after receipt of the approved request. If there are any issues with the submission, it may take longer."
+      },
+      {
+        "question": "What types of expenses are eligible for reimbursement?",
+        "answer": "Eligible expenses include travel costs, meals during business trips, office supplies, and other work-related expenses. For a complete list of eligible expenses, please refer to the company\u2019s expense policy document on the intranet."
+      },
+      {
+        "question": "Can I submit expenses for a work-related trip after I return?",
+        "answer": "Yes, you can submit expenses for a work-related trip after your return. However, it's best to submit your reimbursement request as soon as possible, ideally within 30 days of the trip, to ensure timely processing."
+      },
+      {
+        "question": "What should I do if I misplaced my receipt for an expense?",
+        "answer": "If you\u2019ve misplaced a receipt, you can submit a missing receipt affidavit form, which can be found on the intranet. This form allows you to certify the expense without a receipt, although it may delay reimbursement."
+      },
+      {
+        "question": "How can I check the status of my expense reimbursement request?",
+        "answer": "You can check the status of your expense reimbursement request by contacting the Finance Department directly via email or by checking the reimbursement tracking tool available on the intranet."
+      },
+      {
+        "question": "What is the budget approval process for department expenses?",
+        "answer": "The budget approval process involves submitting a budget request form to your department head, who will review and approve it. Once approved, it is sent to the Finance Department for final review and allocation."
+      },
+      {
+        "question": "Are there any spending limits for department budgets?",
+        "answer": "Yes, each department has a specific budget limit set annually. You should refer to your department\u2019s budget allocation document for details, and consult with your manager if you have questions about exceeding the limit."
+      },
+      {
+        "question": "How do I report a financial discrepancy in my department's budget?",
+        "answer": "To report a financial discrepancy in your department\u2019s budget, please document the issue clearly and submit it to your department manager. They will escalate the matter to the Finance Department for investigation."
+      },
+      {
+        "question": "What should I do if I have a question about a financial procedure?",
+        "answer": "If you have questions about financial procedures, please refer to the finance policies available on the intranet. If you still need assistance, feel free to contact the Finance Department via email or schedule a meeting."
+      },
+      {
+        "question": "How often are departmental budgets reviewed?",
+        "answer": "Departmental budgets are typically reviewed quarterly. During these reviews, any necessary adjustments can be made based on spending and project needs."
+      },
+      {
+        "question": "Is there a training program for understanding financial procedures?",
+        "answer": "Yes, the Finance Department offers training sessions on financial procedures regularly. Please check the training calendar on the intranet for upcoming sessions and registration details."
+      }
+    ]
+  }
+}

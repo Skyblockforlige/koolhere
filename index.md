@@ -6,6 +6,8 @@
 
 [Autohand](/autohand)
 
+[ShopUNow Agentic RAG System](/Capstone_RAG_ShopUNow)
+
 
 
 

@@ -1,0 +1,2 @@
+make sure for the stretch goal do option 3
+also make sure everything is as simple as possible yet still following the requirements
