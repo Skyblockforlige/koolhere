@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### MachineLearning Projects
 
 [Autohand](/autohand)
 
